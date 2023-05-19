@@ -2,6 +2,10 @@
 
 In this application, user could traverse every detail and description of agents and guns in the game of Feloran. Everything here is updated and there is additional feature of guns where user could calculate time needed to kill an agent.
 
+Output Example:
+
+![1684491920834](image/README/1684491920834.png)
+
 ##### Class Used
 
 - JETT
